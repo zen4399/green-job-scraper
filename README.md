@@ -14,15 +14,7 @@
 
 ## 🛠️ 使用技術
 
-- Python 3.x
+- Python 3.11.9
 - requests
 - BeautifulSoup4
 - pandas
-
-## 📂 実行方法
-
-1. 仮想環境の作成・有効化（任意）
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Windowsは venv\Scripts\activate
